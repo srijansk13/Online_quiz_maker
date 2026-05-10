@@ -33,7 +33,7 @@ The platform is inspired by the UI/UX quality of:
 # 🌐 Live Demo
 
 🚀 **Try Quizify Live**  
-https://your-live-link.vercel.app
+https://srijansk13.github.io/Online_quiz_maker/
 
 </div>
 
